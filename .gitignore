@@ -11,4 +11,5 @@ bin/
 *.eml
 atlassian-ide-plugin.xml
 .idea
+.xll
 
