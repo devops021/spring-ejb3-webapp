@@ -9,7 +9,7 @@ To build and run the application follow this install instructions:
 
 1. Download and unzip jboss-as-7.1.1.zip.
 2. Clone this repository
-3. You need java 6 and maven 3 to build the application
+3. You need java 6 and maven 3 to build the application.
 4. Start the jboss application server with standalone.sh or standalone.bat
 5. To build and deploy call mvn clean package jboss-as:deploy (make sure, that jboss is running)
 
